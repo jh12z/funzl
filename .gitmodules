@@ -1,0 +1,3 @@
+[submodule "client/default"]
+	path = client/default
+	url = ssh://git@86.47.218.57:7999/FUNZL/funzl-client.git
